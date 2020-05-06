@@ -1,0 +1,59 @@
+/*
+           Master Stylesheet
+    ============================
+    Template Name : Anso
+    Author: Md. Nur Nobi
+    Author Url: onlynurnobi.com
+    Descriptions: Finacial HTMl Template
+    Version:1.0.0
+    Tag: Personal, Financial
+
+*/
+
+/*
+           Table of Content
+        =====================
+ 1. Typrography
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+
+
+
+*/
+
+
+/*=========================
+        Typrography
+===========================*/
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+header, #hero, #body, #bar, footer{
+    background-color:#faec;
+    padding: 50px 0;
+    margin-bottom: 50px;
+}
+.container{
+    margin: 0 auto;
+    padding: 0;
+}
+.content{
+    background-color: #99d9ea;
+    border: 5px solid green;
+    padding: 20px;
+    margin: 5px;
+}
+.body-content{
+    padding: 50px 20px;
+}
+.instant{
+    background-color: #b5e61d;
+
+}
